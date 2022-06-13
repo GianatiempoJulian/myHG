@@ -5,13 +5,13 @@
 > Project Trello's: https://trello.com/b/5I7CaZ5N/myhg
 
 > Technologies:
-    > PHP
-    > HTML5
-    > CSS
-    > JavaScript
-    > My university Framework ( Next project will be in Laravel, I promise.)
-    > Bootstrap
+    . PHP
+    . HTML5
+    . CSS
+    . JavaScript
+    . My university Framework ( Next project will be in Laravel, I promise.)
+    . Bootstrap
     
 > To-Do Better:
-    > Desing of figure list.
-    > The user can put a profile picture.
+    . Desing of figure list.
+    . The user can put a profile picture.
