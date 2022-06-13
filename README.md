@@ -15,3 +15,4 @@
 - To-Do Better:
     - Desing of figure list.
     - The user can put a profile picture.
+    - Achievements system.
