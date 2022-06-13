@@ -1,6 +1,6 @@
 # myHG
 
-- This is a website for Dragon Ball HG Gashapon collectors. But, the main reason for create this project is just practise my PHP abilities, plus HTML, CSS and my first steps with JS.
+- This is a website for Dragon Ball HG Gashapon collectors. But, the main reason for create this project is just practise my PHP and SQL abilities, plus HTML, CSS and my first steps with JS.
 
 - Project Trello's: https://trello.com/b/5I7CaZ5N/myhg
 
