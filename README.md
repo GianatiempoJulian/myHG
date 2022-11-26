@@ -9,7 +9,7 @@
     - HTML5
     - CSS
     - JavaScript
-    - My university Framework ( Next project will be in Laravel, I promise.)
+    - My university Framework ( The next project will be in Laravel, I promise.)
     - Bootstrap
     
 - To-Do Better:
